@@ -1,0 +1,5 @@
+{
+  "name": "TechSolutions ERP",
+  "description": "A comprehensive management platform for Peruvian SMEs implementing Adapter, Proxy, Observer, Command, Strategy, and Iterator design patterns.",
+  "requestFramePermissions": []
+}
