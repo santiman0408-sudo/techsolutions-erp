@@ -74,3 +74,17 @@ VITE_API_URL=http://localhost:3000
 -Manejo de componentes en React
 
 -Tipado fuerte con TypeScript
+
+📸 Capturas del Sistema
+
+Dashboard
+<img width="1626" height="796" alt="image" src="https://github.com/user-attachments/assets/fce50bb5-f5c7-4687-89d3-6b9b86fdb8a5" />
+
+Panel de Control
+<img width="1630" height="805" alt="image" src="https://github.com/user-attachments/assets/c23ebb58-2114-4c6b-b6fd-ca57d9942034" />
+
+Configuracion
+<img width="1630" height="798" alt="image" src="https://github.com/user-attachments/assets/3b0fe4b2-09ba-464a-8d19-dd1db26cb18c" />
+
+
+
